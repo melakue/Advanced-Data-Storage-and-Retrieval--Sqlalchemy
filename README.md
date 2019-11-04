@@ -44,8 +44,12 @@ Design a Flask API based on the queries that you have just developed.
   * When given the start only, calculate TMIN, TAVG, and TMAX for all dates greater than and equal to the start date.
   * When given the start and the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.
  
- ### Screenshot of the final analysis
- ![Image description](link-to-image)
+ ### Some Screenshot from the final analysis
+ ![Image description](https://github.com/melakue/Advanced-Data-Storage-and-Retrieval-Sqlalchemy/blob/master/Pic1.JPG)
+ ![Image description](https://github.com/melakue/Advanced-Data-Storage-and-Retrieval-Sqlalchemy/blob/master/pic2.JPG)
+ ![Image description](https://github.com/melakue/Advanced-Data-Storage-and-Retrieval-Sqlalchemy/blob/master/pic3.JPG)
+ ![Image description](https://github.com/melakue/Advanced-Data-Storage-and-Retrieval-Sqlalchemy/blob/master/pic4.JPG)
+
 
 
 
